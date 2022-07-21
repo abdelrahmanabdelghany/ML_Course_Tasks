@@ -1,0 +1,1 @@
+    attribute = next(iter(tree)) 
